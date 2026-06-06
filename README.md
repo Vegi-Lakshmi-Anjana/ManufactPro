@@ -1,4 +1,4 @@
-# ⚙️ ManufactPro – Manufacturing Process Selection and Engineering Analysis Tool
+# ManufactPro – Manufacturing Process Selection and Engineering Analysis Tool
 
 ManufactPro is a web-based engineering decision support tool that assists in selecting suitable bulk metal forming processes based on geometry, material properties, reduction requirements, and manufacturing constraints.
 
@@ -6,7 +6,7 @@ The application evaluates candidate processes through a two-stage methodology th
 
 ---
 
-## 📌 Overview
+## Overview
 
 Selecting an appropriate manufacturing process is a critical engineering decision that directly impacts product quality, production efficiency, manufacturing cost, and process feasibility.
 
@@ -29,7 +29,7 @@ Shortlisted processes undergo detailed evaluation using process-specific enginee
 
 ---
 
-## ✨ Features
+## Features
 
 ### Two-Stage Process Selection Framework
 
@@ -114,7 +114,7 @@ The tool recommends the most suitable process using a weighted evaluation framew
 
 ---
 
-## 🏗️ Methodology
+##  Methodology
 
 ### Stage 1 – Feasibility Filtering
 
@@ -168,7 +168,7 @@ Calculates:
 
 ---
 
-## ⚙️ Workflow
+##  Workflow
 
 ```text
 User Inputs
@@ -201,7 +201,7 @@ Final Process Recommendation
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 ManufactPro/
@@ -214,7 +214,7 @@ ManufactPro/
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Clone the Repository
 
@@ -236,7 +236,7 @@ No installation or external dependencies are required.
 
 ---
 
-## 🎯 Engineering Concepts Applied
+##  Engineering Concepts Applied
 
 - Manufacturing Process Selection
 - Bulk Metal Forming
@@ -253,7 +253,7 @@ No installation or external dependencies are required.
 
 ---
 
-## 🔮 Future Enhancements
+##  Future Enhancements
 
 - Additional Manufacturing Processes
 - Expanded Material Database
@@ -262,9 +262,3 @@ No installation or external dependencies are required.
 - Interactive Process Visualization
 - Manufacturing Knowledge Base Integration
 
----
-
-## 👩‍💻 Author
-
-**Vegi Lakshmi Anjana**  
-B.Tech, IIT Guwahati
